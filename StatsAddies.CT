@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<CheatTable CheatEngineTableVersion="10">
+  <CheatEntries>
+    <CheatEntry>
+      <Description>"HP"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>64D6EB8C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <Description>"MP"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>64D6EB90</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <Description>"Map ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6508C7A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <Description>"Monster Count"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>61659E14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <Description>"X"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>6595B174</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <Description>"Y"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>62E9BB6C</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
